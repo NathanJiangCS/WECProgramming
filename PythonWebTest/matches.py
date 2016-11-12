@@ -99,3 +99,5 @@ if data["states"] == "matching":
             if i != len(sm):
                 output.write(',\n')
     
+data_file.close()
+output.close()
