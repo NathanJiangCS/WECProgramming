@@ -1,0 +1,228 @@
+{
+	"states": "matching",
+	"students": [
+		{
+			"id": 20665325,
+			"preferences": [
+				{
+					"emp_id": 12521,
+					"posting_id": 1
+				},
+				{
+					"emp_id": 12543,
+					"posting_id": 6
+				},
+				{
+					"emp_id": 9482,
+					"posting_id": 3
+				},
+				{
+					"emp_id": 12445,
+					"posting_id": 5
+				},
+				{
+					"emp_id": 18432,
+					"posting_id": 4
+				},
+				{
+					"emp_id": 14325,
+					"posting_id": 2
+				}
+
+			]
+		},
+
+
+		{
+			"id": 20665326,
+			"preferences": [
+				{
+					"emp_id": 14325,
+					"posting_id": 2
+				},
+				{
+					"emp_id": 18432,
+					"posting_id": 4
+				},
+				{
+					"emp_id": 9482,
+					"posting_id": 3
+				},
+				{
+					"emp_id": 12445,
+					"posting_id": 5
+				},
+				{
+					"emp_id": 12543,
+					"posting_id": 6
+				},
+				{
+					"emp_id": 12521,
+					"posting_id": 1
+				}
+
+			]
+		},
+
+
+		{
+			"id": 20533543,
+			"preferences": [
+				{
+					"emp_id": 12543,
+					"posting_id": 6
+				},
+				{
+					"emp_id": 18432,
+					"posting_id": 4
+				},
+				{
+					"emp_id": 12445,
+					"posting_id": 5
+				},
+				{
+					"emp_id": 14325,
+					"posting_id": 2
+				},
+				{
+					"emp_id": 12521,
+					"posting_id": 1
+				},
+				{
+					"emp_id": 9482,
+					"posting_id": 3
+				}
+
+
+			]
+		},
+
+
+		{
+			"id": 20541123,
+			"preferences": [
+				{
+					"emp_id": 12543,
+					"posting_id": 6
+				},
+				{
+					"emp_id": 12445,
+					"posting_id": 5
+				},
+				{
+					"emp_id": 18432,
+					"posting_id": 4
+				},
+				{
+					"emp_id": 12521,
+					"posting_id": 1
+				},
+				{
+					"emp_id": 14325,
+					"posting_id": 2
+				},
+				{
+					"emp_id": 9482,
+					"posting_id": 3
+				}
+
+			]
+		},
+
+		{
+			"id": 20456432,
+			"preferences": [
+				{
+					"emp_id": 12445,
+					"posting_id": 5
+				},
+				{
+					"emp_id": 12543,
+					"posting_id": 6
+				},
+				{
+					"emp_id": 12521,
+					"posting_id": 1
+				},
+				{
+					"emp_id": 14325,
+					"posting_id": 2
+				},
+				{
+					"emp_id": 9482,
+					"posting_id": 3
+				},
+				{
+					"emp_id": 18432,
+					"posting_id": 4
+				}
+
+			]
+		},
+
+		{
+			"id": 20754823,
+			"preferences": [
+				{
+					"emp_id": 12543,
+					"posting_id": 6
+				},
+				{
+					"emp_id": 12521,
+					"posting_id": 1
+				},
+				{
+					"emp_id": 18432,
+					"posting_id": 4
+				},
+				{
+					"emp_id": 9482,
+					"posting_id": 3
+				},
+				{
+					"emp_id": 14325,
+					"posting_id": 2
+				},
+				{
+					"emp_id": 12445,
+					"posting_id": 5
+				}
+
+			]
+		}
+
+	],
+
+	"employers": [
+		{
+			"emp_id": 12521,
+			"posting_id": 1, 
+			"preferences_descending": [20456432,20665325,20533543,20541123,20665326,20754823]
+		},
+		{
+			"emp_id": 14325,
+			"posting_id": 2, 
+			"preferences_descending": [20665326,20456432,20533543,20541123,20754823,20665325]
+		},
+		{
+			"emp_id": 9482,
+			"posting_id": 3, 
+			"preferences_descending": [20533543,20541123,20665326,20754823,20665325,20456432]
+		},
+		{
+			"emp_id": 18432,
+			"posting_id": 4, 
+			"preferences_descending": [20541123,20456432,20665325,20754823,20665326,20533543]
+		},
+		{
+			"emp_id": 12445,
+			"posting_id": 5, 
+			"preferences_descending": [20533543,20754823,20665325,20665326,20456432,20541123]
+		},
+		{
+			"emp_id": 12543,
+			"posting_id": 6, 
+			"preferences_descending": [20533543,20665325,20665326,20456432,20541123,20754823]
+		}
+	] 
+}

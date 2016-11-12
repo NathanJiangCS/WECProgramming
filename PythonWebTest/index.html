@@ -1,0 +1,41 @@
+<html>
+<header>
+<title>JobMime</title>
+</header>
+<body>
+
+<!--
+<form method="POST" action="/send">
+<label>Insert your Student ID: </label>
+<input type="text" name="Student ID"/>
+
+<input type="submit" value="Send"/>
+</form>
+<br>	
+<form method="POST" action="/notsend">
+<label>Insert your Employer ID: </label>
+<input type="text" name="Employer ID"/>
+
+<input type="submit" value="Send"/>
+</form>
+-->
+<h1>Add Student Ranking</h1>
+<form method="POST" action="/sendStudent">
+  Student ID:<br>
+  <input type="text" name="studentID"><br>
+  Enter Your Job Preferences (From most prefered to least prefered). Seperate each job with commas:<br>
+  <input type="text" name="postingID">
+  <br>
+  <input type="submit" value="Send"/>
+</form>
+
+<button type="button" onclick="clicker()">
+
+<script>
+	function clicker()
+{
+	alert("Tkinter sucks ass");
+}
+</script>
+</body>
+</html>
