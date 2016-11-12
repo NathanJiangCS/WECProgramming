@@ -1,0 +1,124 @@
+{
+	"states": "matching",
+	"students": [
+		{
+			"id": 11,
+			"preferences": [
+				{
+					"emp_id": 101,
+					"posting_id": 1
+				},
+				{
+					"emp_id": 101,
+					"posting_id": 2
+				},
+				{
+					"emp_id": 201,
+					"posting_id": 3
+				},
+				{
+					"emp_id": 201,
+					"posting_id": 4
+				}
+
+			]
+		},
+
+
+		{
+			"id": 12,
+			"preferences": [
+				{
+					"emp_id": 201,
+					"posting_id": 3
+				},
+				{
+					"emp_id": 101,
+					"posting_id": 1
+				},
+				{
+					"emp_id": 101,
+					"posting_id": 2
+				},
+				{
+					"emp_id": 201,
+					"posting_id": 4
+				}
+
+			]
+		},
+
+
+		{
+			"id": 13,
+			"preferences": [
+				{
+					"emp_id": 201,
+					"posting_id": 3
+				},
+				{
+					"emp_id": 101,
+					"posting_id": 1
+				},
+				{
+					"emp_id": 201,
+					"posting_id": 4
+				},
+				{
+					"emp_id": 101,
+					"posting_id": 2
+				}
+
+
+			]
+		},
+
+
+		{
+			"id": 14,
+			"preferences": [
+				{
+					"emp_id": 101,
+					"posting_id": 2
+				},
+				{
+					"emp_id": 201,
+					"posting_id": 3
+				},
+				{
+					"emp_id": 101,
+					"posting_id": 1
+				},
+				{
+					"emp_id": 201,
+					"posting_id": 4
+				}
+
+			]
+		}
+
+	],
+
+	"employers": [
+		{
+			"emp_id": 101,
+			"posting_id": 1, 
+			"preferences_descending": [11,14,12,13]
+		},
+		{
+			"emp_id": 101,
+			"posting_id": 2, 
+			"preferences_descending": [14,11,12,13]
+		},
+		{
+			"emp_id": 201,
+			"posting_id": 3, 
+			"preferences_descending": [14,11,13,12]
+		},
+		{
+			"emp_id": 201,
+			"posting_id": 4, 
+			"preferences_descending": [11,13,12,14]
+		}
+	] 
+}
