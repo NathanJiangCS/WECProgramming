@@ -1,0 +1,25 @@
+{
+  "state": "scheduling",
+  "jobs": [
+    {
+      "emp_id": 12345,
+      "posting_id": 1,
+      "students": [11111111]
+    },
+    {
+      "emp_id": 12345,
+      "posting_id": 10,
+      "students": [11111112]
+    },
+    {
+      "emp_id": 56789,
+      "posting_id": 98,
+      "students": [11111113]
+    },
+    {
+      "emp_id": 56789,
+      "posting_id": 99,
+      "students": [11111114]
+    }
+  ]
+}
