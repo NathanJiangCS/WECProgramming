@@ -1,0 +1,93 @@
+[
+  {
+        "interviewer_schedule": [{
+            "start_time": "2016-09-28T08:00:00.000Z",
+            "end_time": "2016-09-28T13:30:00.000Z"
+        }],
+        "id": 5,
+        "name": "Excellent Company #5",
+        "postings": [
+            {
+                "location": "Calcutta",
+                "id": 1,
+                "title": "Staple Remover"
+            },
+            {
+                "location": "Calcutta",
+                "id": 2,
+                "title": "WEC Custodian"
+            }
+        ]
+    },
+    {
+        "interviewer_schedule": [{
+            "start_time": "2016-10-03T08:00:00.000Z",
+            "end_time": "2016-10-03T12:30:00.000Z"
+        }],
+        "id": 10,
+        "name": "Sandwich Student Company #10",
+        "postings": [
+            {
+                "location": "Moscow",
+                "id": 1,
+                "title": "Agent of Disruption"
+            }
+        ]
+    },
+    {
+        "interviewer_schedule": [{
+            "start_time": "2016-10-08T08:00:00.000Z",
+            "end_time": "2016-10-08T11:00:00.000Z"
+        }],
+        "id": 15,
+        "name": "Decent Company #15",
+        "postings": [
+            {
+                "location": "Waterloo",
+                "id": 1,
+                "title": "Staple Remover"
+            }
+        ]
+    },
+    {
+        "interviewer_schedule": [{
+            "start_time": "2016-10-13T08:00:00.000Z",
+            "end_time": "2016-10-13T12:00:00.000Z"
+        }],
+        "id": 20,
+        "name": "Excellent Company #20",
+        "postings": [
+            {
+                "location": "Moscow",
+                "id": 1,
+                "title": "Staple Remover"
+            }
+        ]
+    },
+    {
+        "interviewer_schedule": [{
+            "start_time": "2016-10-18T08:00:00.000Z",
+            "end_time": "2016-10-18T16:30:00.000Z"
+        }],
+        "employer_schedule": [],
+        "id": 25,
+        "name": "Sandwich Student Company #25",
+        "postings": [
+            {
+                "location": "Moscow",
+                "id": 1,
+                "title": "WEC Custodian"
+            },
+            {
+                "location": "Moscow",
+                "id": 2,
+                "title": "Staple Remover"
+            },
+            {
+                "location": "Moscow",
+                "id": 3,
+                "title": "WEC Custodian"
+            }
+        ]
+    }
+]

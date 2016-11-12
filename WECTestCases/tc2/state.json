@@ -1,0 +1,1 @@
+{"employers": [{"posting_id": 1, "preferences_descending": [20600005, 20600000], "emp_id": 5}, {"posting_id": 1, "preferences_descending": [], "emp_id": 10}], "students": [{"id": 20600000, "preferences": [{"posting_id": 1, "emp_id": 5}]}, {"id": 20600005, "preferences": [{"posting_id": 1, "emp_id": 5}]}], "state": "matching"}

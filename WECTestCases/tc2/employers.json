@@ -1,0 +1,32 @@
+[
+  {
+        "interviewer_schedule": [{
+            "start_time": "2016-09-28T08:00:00.000Z",
+            "end_time": "2016-09-28T10:00:00.000Z"
+        }],
+        "id": 5,
+        "postings": [
+            {
+                "title": "Software Developer",
+                "id": 1,
+                "location": "Waterloo"
+            }
+        ],
+        "name": "Amazing Company #5"
+    },
+    {
+        "interviewer_schedule": [{
+            "start_time": "2016-10-03T08:00:00.000Z",
+            "end_time": "2016-10-03T10:00:00.000Z"
+        }],
+        "id": 10,
+        "postings": [
+            {
+                "title": "Staple Remover",
+                "id": 1,
+                "location": "Moscow"
+            }
+        ],
+        "name": "Amazing Company #10"
+    }
+]

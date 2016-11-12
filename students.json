@@ -1,11 +1,11 @@
-var data = [
+[
   {
     "id": 11111111,
     "name": "Saswata Gupta",
     "schedule": [
       {
-        "start_time": "2016-09-23T13:00:00.000Z",
-        "end_time": "2016-09-23T14:00:00.000Z",
+        "start_time": "2016-09-23T0:00:00.000Z",
+        "end_time": "2016-09-23T3:00:00.000Z",
         "event": "lecture"
       }
     ]
@@ -15,8 +15,8 @@ var data = [
     "name": "David Kang",
     "schedule": [
       {
-        "start_time": "2016-09-22T13:00:00.000Z",
-        "end_time": "2016-09-22T14:00:00.000Z",
+        "start_time": "2016-09-23T11:00:00.000Z",
+        "end_time": "2016-09-23T15:00:00.000Z",
         "event": "lecture"
       }
     ]
